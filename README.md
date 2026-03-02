@@ -7,8 +7,8 @@ For homes that tell your story.
 
 ##  Team Members
 - Ahmed Mohamed Elsayed Abd ElAziz  
-- Esraa Emad  
-- Menna  
+- Esraa Emad Mahmoud Mohamed 
+- Mennaullah Mohamed Shehata Ali
 - Farah Magdy  
 
 
@@ -50,7 +50,7 @@ The Lamora Project is a full-scale marketing initiative aimed at positioning the
 
 
 ### Week 2 — [Title]
-- Content Calendar.  
+- Social Media Content Calendar.  
 
 
 ### Week 3 — [Title]
