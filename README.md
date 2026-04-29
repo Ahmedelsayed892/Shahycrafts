@@ -1,8 +1,7 @@
 # Shahy Crafts
 https://drive.google.com/drive/folders/1zm8gej_m2wLV3xABowSgurQg5HDxozTT?usp=drive_link 
-### Lamora | Elegant home décor & lighting ✨
-Crafting warmth, light & refined beauty.
-For homes that tell your story.
+### We create art with our own hands ✨ 
+Unique art pieces just for you
 
 ---
 
