@@ -1,4 +1,6 @@
 # Shahy Crafts
+Shahy Crafts is a handmade brand creating hand-cast concrete home décor and artisan soy wax candles — every piece unique, made by hand, and delivered with warmth and love. Serving individuals who want their homes and gifts to feel personal, and companies seeking premium alternatives to generic corporate gifting, Shahy Crafts is the only brand in Egypt combining handmade concrete décor, artisan candles, and full personalisation under one identity
+
 https://drive.google.com/drive/folders/1zm8gej_m2wLV3xABowSgurQg5HDxozTT?usp=drive_link 
 ### We create art with our own hands ✨ 
 Unique art pieces just for you
@@ -20,9 +22,7 @@ Dr.Mohamed Al-Aswad
 ---
 
 ##  Project Overview
-The Lamora Project is a full-scale marketing initiative aimed at positioning the brand as a premium provider of 3D-printed customized home décor and lighting in Egypt. The project covers the brand journey from A to Z, including market research, competitor analysis, content strategy, audience targeting (A and B+ segments), social media management, and performance-driven advertising. The goal is to elevate brand awareness, build a strong aesthetic identity, and drive online sales through strategic content pillars (education, inspiration, entertainment, and promotion) while maintaining a high-end, elegant brand image that resonates with sophisticated homeowners and businesses such as hotels and event spaces.
-
----
+Shahy Crafts is a handmade brand creating hand-cast concrete home décor and artisan soy wax candles — every piece unique, made by hand, and delivered with warmth and love. Serving individuals who want their homes and gifts to feel personal, and companies seeking premium alternatives to generic corporate gifting, Shahy Crafts is the only brand in Egypt combining handmade concrete décor, artisan candles, and full personalisation under one identity
 
 ## Project Objectives
 - Increase brand awareness by 70% in 2026  
@@ -33,11 +33,11 @@ The Lamora Project is a full-scale marketing initiative aimed at positioning the
 ---
 
 ##  Project Scope
-- [Scope item 1]  
-- [Scope item 2]  
-- [Scope item 3]  
-- [Scope item 4]  
-- [Scope item 5]  
+- [About Us]  
+- [Business Model Canvas]  
+- [SOSTAC Model]  
+- [Organic Content and its analysis]  
+- [Recommendations]  
 
 >  **Final Deliverable:** [Describe the final output of the project]
 
@@ -54,12 +54,13 @@ The Lamora Project is a full-scale marketing initiative aimed at positioning the
 
 
 ### Week 3 — [Title]
-- [Task]  
+- Target Personas and Segmentation
+- Actions, Strategy, and KPIs 
 
 
 ### Week 4 — [Title]
-- [Task]  
+- Publishing Content and making an analysis  
 
 
 ### Week 5 — [Title]
-- [Task]  
+- Making final project presentation  
